@@ -1,103 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=NIHAR%20MANDAL&fontSize=54&fontColor=E8F0FF&stroke=647CFF&strokeWidth=1&animation=fadeIn&color=0:05060A,50:0B1020,100:17102B" width="100%" alt="Nihar Mandal"/>
+<img width="100%" src="./assets/terminal-banner.svg" alt="NIHAR MANDAL — independent systems, artificial intelligence, experiments"/>
 
 <br/>
 
-<code>AI / ML STUDENT</code> &nbsp; <code>SOFTWARE BUILDER</code> &nbsp; <code>LOCAL AI</code>
-
-<br/><br/>
-
-**I build things that think. Then I try to understand why they work.**
-
-<br/>
-
-<a href="https://niharm31.github.io/">PORTFOLIO ↗</a>
-&nbsp; // &nbsp;
-<a href="https://github.com/Niharm31?tab=repositories">PROJECT ARCHIVE ↗</a>
+<a href="https://github.com/Niharm31?tab=repositories">[ REPOSITORIES ]</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://niharm31.github.io/">[ PORTFOLIO ]</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Niharm31">[ GITHUB ]</a>
 
 </div>
 
----
+<br/>
 
-```text
-NIHAR@WORKSTATION
-────────────────────────────────────────────────────────
-STATUS      learning in public / building in private
-INTERESTS   local LLMs · RAG · machine learning · systems
-CURRENT     turning experiments into software people can use
-RULE        evidence > hype
-────────────────────────────────────────────────────────
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### `// operator profile`
+
+I'm Nihar — an AI/ML student building software around local AI, retrieval systems, and machine-learning experiments.
+
+I care about the part after the demo: **does it work, can someone reproduce it, and what happens when it breaks?**
+
+</td>
+<td width="42%" valign="top">
+
+```yaml
+identity:   Nihar Mandal
+domain:     AI / ML + software
+interests:
+  - local inference
+  - retrieval systems
+  - backend engineering
+  - ML experiments
+principle:  evidence > hype
 ```
 
-### / selected work
+</td>
+</tr>
+</table>
+
+## `01 / FIELD NOTES`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — AI DOCUMENT ASSISTANT**
+### [AI DOCUMENT ASSISTANT](https://github.com/Niharm31/ai-document-assistant)
 
-`RAG` `FAISS` `FastAPI`
+`RAG` · `FAISS` · `FastAPI`
 
-Ask questions about documents and trace answers back to their source. Built around semantic retrieval and LLM integration.
+A document Q&A system built around semantic retrieval and language-model responses. The interesting engineering questions: retrieval quality, source grounding, and graceful failure when evidence is missing.
 
-<a href="https://github.com/Niharm31/ai-document-assistant">inspect source ↗</a>
+**[ OPEN SOURCE ↗](https://github.com/Niharm31/ai-document-assistant)**
 
 </td>
 <td width="50%" valign="top">
 
-**02 — ASTRALAB**
+### [ASTRALAB](https://github.com/Niharm31/AstraLab)
 
-`ML` `EXPERIMENTS`
+`MACHINE LEARNING` · `EXPERIMENTS`
 
-A machine-learning sandbox for exploring predictive models and their behavior on nonlinear synthetic data.
+A sandbox for exploring predictive models on nonlinear synthetic data. The goal is not to make grand claims—it's to understand model behavior and report what experiments actually show.
 
-<a href="https://github.com/Niharm31/AstraLab">inspect source ↗</a>
+**[ OPEN SOURCE ↗](https://github.com/Niharm31/AstraLab)**
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-**03 — GREAT SAGE**
+### GREAT SAGE
 
-`LOCAL AI` `PYTHON` `ASSISTANT SYSTEMS`
+`LOCAL AI` · `PYTHON` · `ASSISTANT SYSTEMS`
 
-An experimental personal AI assistant exploring local model inference, conversational memory, tools, and multiple interfaces.
+An experimental personal assistant exploring local language-model inference, conversational context, tool integration, and multiple interfaces.
+
+*Project details and capabilities depend on the current implementation.*
 
 </td>
 </tr>
 </table>
 
-### / tools I work with
-
-`Python` &nbsp; `C++` &nbsp; `C` &nbsp; `Java` &nbsp; `SQL`  
-`FastAPI` &nbsp; `FAISS` &nbsp; `Sentence Transformers` &nbsp; `Docker` &nbsp; `Git`
-
-<sub>Stack reflects project work and learning; proficiency varies by technology.</sub>
-
-### / operating principles
-
-- **Build first.** Make the idea run before making it look impressive.
-- **Measure honestly.** No invented benchmarks, no inflated claims.
-- **Show the evidence.** Tests, demos, reproducible steps.
-- **Finish the loop.** Learn → build → evaluate → improve.
+## `02 / CURRENT TOOLBOX`
 
 <div align="center">
 
-<br/>
-
-<a href="https://github.com/Niharm31">
-<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&hide_border=true&bg_color=05060A&title_color=9BAEFF&text_color=C9D1E5&icon_color=9BAEFF&hide_title=true" height="135" alt="GitHub stats"/>
-</a>
-
-<br/>
-
-<sub>NO BIG CLAIMS. JUST THE WORK.</sub>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,fastapi,docker,git,github,linux,mysql&theme=dark" alt="Python, C++, C, Java, FastAPI, Docker, Git, GitHub, Linux, and MySQL"/>
 
 <br/><br/>
 
-<a href="https://niharm31.github.io/">niharm31.github.io</a> &nbsp; · &nbsp; <a href="https://github.com/Niharm31">github.com/Niharm31</a>
+`FAISS` &nbsp; / &nbsp; `Sentence Transformers` &nbsp; / &nbsp; `RAG` &nbsp; / &nbsp; `LLMs`
+
+</div>
+
+<sub>Technologies reflect project work and learning; proficiency varies by tool.</sub>
+
+## `03 / NON-NEGOTIABLES`
+
+| `01` | Make claims I can demonstrate. |
+|:--|:--|
+| `02` | Prefer reproducible results over impressive numbers. |
+| `03` | Treat tests and failure cases as part of the feature. |
+| `04` | Explain limitations instead of hiding them. |
+
+## `04 / SIGNAL`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Niharm31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C9DFF&text_color=C9D1D9&icon_color=7C9DFF&hide_title=true" height="145" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharm31&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C9DFF&text_color=C9D1D9" height="145" alt="Top languages"/>
+
+<br/>
+
+<sub>Stats are decorative context, not a measure of engineering ability.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+`LESS PERFORMANCE. MORE PROOF.`
+
+<br/>
+
+<a href="https://niharm31.github.io/">niharm31.github.io</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/Niharm31">github.com/Niharm31</a>
 
 </div>
